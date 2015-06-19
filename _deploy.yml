@@ -1,0 +1,17 @@
+method: git                               # How do you want to deploy? git, rsync or s3.
+site_dir: _site                           # Location of your static site files.
+git_url: git@github.com:kiub/kiub.github.io.git  # remote repository url, e.g. git@github.com:username/repo_name
+git_branch: master                        # Deployment branch for git repository
+deploy_dir: .deploy
+remote: deploy
+
+
+# method:	Deployment method, in this case use 'git'
+# site_dir:	Path to static site files	_site
+# git_url:	Url for remote git repository
+# git_branch:	Deployment branch for git repository	master
+# # Note on git_branch:
+# # If using GitHub project pages, set the branch to 'gh-pages'.
+# # For GitHub user/organization pages or Heroku, set the branch to 'master'.
+# deploy_dir:	Directory where deployment files are staged	.deploy
+# remote:	Name of git remote	deploy

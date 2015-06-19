@@ -1,0 +1,23 @@
+_site
+.DS_Store
+# *.sublime-project
+# *.sublime-workspace
+codekit-config.json
+node_modules
+.bundle
+.sass-cache
+.gist-cache
+.pygments-cache
+.code-highlighter-cache/
+.jshintrc
+deploy
+public
+sass.old
+source.old
+source/_stash
+source/stylesheets/screen.css
+vendor
+node_modules
+# Just for octopress
+Gemfile.lock
+so_simple_readme.md

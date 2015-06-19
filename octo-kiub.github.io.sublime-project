@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"name": "Octopress/Jekyll blog",
+			"path": "~/Sites/ruby-jekyll-kiub",
+			"folder_exclude_patterns": ["_site", ".deploy", ".pygments-cache", ".sass-cache", ".code-highlighter-cache"],
+			"file_exclude_patterns": ["*.css"]
+		},
+		{
+			"name": "Posts",
+			"path": "~/Sites/ruby-jekyll-kiub/_posts",
+		}
+	],
+	 "settings":
+	{
+		"tab_size": 4
+	},
+	"octopress_path": "~/Sites/ruby-jekyll-kiub/"
+}

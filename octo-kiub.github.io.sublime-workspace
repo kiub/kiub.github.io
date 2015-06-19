@@ -1,0 +1,1864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"gra",
+				"gray-light"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"gray",
+				"gray-light"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"btn",
+				"btn-inner-nav"
+			],
+			[
+				"input",
+				"input	input - email"
+			],
+			[
+				"Categor",
+				"category"
+			],
+			[
+				"payment",
+				"paymentOptions"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"in",
+				"input	input - hidden"
+			],
+			[
+				"brand",
+				"brand-primary"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"ng",
+				"ng-hide	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS(DI)"
+			],
+			[
+				"angular",
+				"angular-busy"
+			],
+			[
+				"ite",
+				"itemsMerged"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ng-",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"bran",
+				"brand-primary"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"font-si",
+				"font-size"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tit",
+				"title	Attr"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"b",
+				"button	<button>"
+			],
+			[
+				"st",
+				"strong	<strong>"
+			],
+			[
+				"merchant",
+				"merchantID"
+			],
+			[
+				"ga",
+				"gray-lighter"
+			],
+			[
+				"g",
+				"gray-light"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"line",
+				"line-height-base"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mer",
+				"merchantId"
+			],
+			[
+				"me",
+				"merchantId"
+			],
+			[
+				"merc",
+				"merchantId"
+			],
+			[
+				"Log",
+				"logout"
+			],
+			[
+				"isL",
+				"isLogIn"
+			],
+			[
+				"de",
+				"deferred"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"HOVER",
+				"hover"
+			],
+			[
+				"snap",
+				"snapRemote"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-i",
+				"ng-init	AngularJS"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"di",
+				"directive"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"m",
+				"module	QUnit module"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"country",
+				"countryCode"
+			],
+			[
+				"carou",
+				"carousel-caption"
+			],
+			[
+				"font-size",
+				"font-size-base"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"app",
+				"Applications"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass"
+			],
+			[
+				"pane",
+				"panel-title"
+			],
+			[
+				"FON",
+				"font-weight"
+			],
+			[
+				"gray-li",
+				"gray-lighter"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"scr",
+				"scrollable"
+			],
+			[
+				"fi",
+				"first	first"
+			],
+			[
+				"col-",
+				"col-sm-9"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"k-",
+				"k-state-focused"
+			],
+			[
+				"ca",
+				"uppercase"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bag",
+				"background-size"
+			],
+			[
+				"brand-s",
+				"brand-secundary"
+			],
+			[
+				"MA",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Readme.md",
+			"settings":
+			{
+				"buffer_size": 13508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/downloads/code/start-stop-webcam.html",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 3726,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"slu",
+				"Slugify"
+			],
+			[
+				"sl",
+				"Slugify"
+			],
+			[
+				"depl",
+				"Octopress: Generate And Deploy"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sluf",
+				"Slugify"
+			],
+			[
+				"slug",
+				"Slugify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"se ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set synt angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"syntax: HTML",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"prev",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"paka",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"previe",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pduran/Sites/ruby-jekyll-kiub",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_posts",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_posts/articles",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_posts/blog",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor/font-awesome",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor/magnific-popup",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor/syntax",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/plugins",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/source",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/source/downloads",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/source/downloads/code"
+	],
+	"file_history":
+	[
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/ssh.markdown",
+		"/Users/pduran/Downloads/SocialProject/index.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_posts/articles/2015-06-16-html5-multimedia.markdown",
+		"/Users/pduran/Downloads/php-slim-SocialProject/api/index.php",
+		"/Users/pduran/Downloads/php-slim-SocialProject/index.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/slim-php-framework.markdown",
+		"/Users/pduran/Downloads/php-slim-SocialProject/socialproject.sql",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/plugins/pygments_code.rb",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/_variables.scss",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor/syntax/_code-highlight.scss",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/_base.scss",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/source/downloads/code/start-stop-webcam.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/Gemfile",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/html5-multimedia.markdown",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/mac-finder-preferences.markdown",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/curl.markdown",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_drafts/devtool-tricks.markdown",
+		"/Users/pduran/Desktop/htmlToMD/devtool-tricks-for-when-i-forget.html",
+		"/Users/pduran/Desktop/htmlToMD/devtool-tricks-for-when-i-forget",
+		"/Users/pduran/Library/Application Support/Sublime Text 3/Packages/User/octopress.sublime-settings",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/octo-kiub.github.io.sublime-project",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/_page.scss",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_includes/head.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/.gitignore",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_deploy.yml",
+		"/Users/pduran/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pduran/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_data/navigation.yml",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_posts/articles/2015-06-10-html5.markdown",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/Readme.md",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/blog/index.md",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_includes/navigation.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_sass/vendor/syntax/index.scss",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_site/articles/html5/index.html",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/_so_simple_readme.md",
+		"/Users/pduran/Sites/ruby-jekyll-kiub/.deploy/feed.xml",
+		"/Users/pduran/Sites/octopress-so_simple/Readme.md",
+		"/Users/pduran/Sites/octopress-so_simple/.deploy/assets/css/main.css",
+		"/Users/pduran/Sites/octopress-so_simple/.gitignore",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_variables.scss",
+		"/Users/pduran/Sites/octopress-so_simple/assets/css/main.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/_variables.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/vendor/bootstrap/_variables.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_layouts/page.html",
+		"/Users/pduran/Sites/octopress-so_simple/_layouts/post.html",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/footer.html",
+		"/Users/pduran/Sites/octopress-so_simple/theme-setup/index.md",
+		"/Users/pduran/Dropbox/kiub.github.io/_config.yml",
+		"/Users/pduran/Sites/octopress-so_simple/Gemfile",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/head.html",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/_base.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/vendor/syntax/syntax.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/vendor/syntax/_utilities.scss",
+		"/Users/pduran/Sites/octopress-so_simple/_sass/vendor/syntax/_highlight.scss",
+		"/Users/pduran/Sites/octopress-so_simple/octo-kiub.github.io.sublime-project",
+		"/Users/pduran/Sites/octopress-so_simple/tags/index.md",
+		"/Users/pduran/Dropbox/kiub.github.io/plugins/include_code.rb",
+		"/Users/pduran/Sites/octopress-so_simple/README.md",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/disqus-comments.html",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/ad-sidebar.html",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/ad-footer.html",
+		"/Users/pduran/Sites/octopress-so_simple/_includes/open-graph.html",
+		"/Users/pduran/Sites/octopress-so_simple/_data/authors.yml",
+		"/Users/pduran/.extra",
+		"/Users/pduran/Sites/octop-minimal_mistakes/Gemfile",
+		"/Users/pduran/Dropbox/kiub.github.io/kiubblog",
+		"/Users/pduran/Sites/pos/.git/MERGE_MSG",
+		"/Users/pduran/Sites/pos/.git/COMMIT_EDITMSG",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/admin/adminCtrl.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/shared/sharedCtrl.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/shared/sharedFunctions.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_navbar.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Views/src/index.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_keypad-numeric.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/admin/_modal-account-tpl.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/shared/_inner-nav.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/products/showProductCtrl.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/styles.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/pos.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/styles.css",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/styles.min.css",
+		"/Users/pduran/.gitconfig",
+		"/Users/pduran/Sites/pos/.git/config",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/gulpfile.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/app.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_custom.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/_keypad-numeric.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/shared/_keypad-numeric.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_forms.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/admin/_admin.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/products/_show-product.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/products/_modal-product-tpl.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/login/_login.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/backup-merge/20150521-src-index.html",
+		"/Volumes/wwwroot/news.blackstoneonline.com/wp-content/themes/kallchild/functions.php",
+		"/Volumes/wwwroot/blackstonemerchant.com/wp-content/themes/kallyas-child/functions.php",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/shared/sharedServices.js",
+		"/Users/pduran/Documents/blackstone-sign.html",
+		"/Volumes/wwwroot/blackstonemerchant.com/wp-config.php",
+		"/Users/pduran/Dropbox/kiub.github.io/source/_posts/2015-05-18-.markdown",
+		"/Users/pduran/Dropbox/kiub.github.io/source/blog/categories/index.markdown",
+		"/Volumes/wwwroot/blackstonemerchant.com/wp-settings.php",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/pos.sublime-project",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/directtv/_show-dtv.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/sunpass/_replenish-sunpass.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/sunpass/_documents-sunpass.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/dev.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/index.html",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/Content/sass/base/_buttons.scss",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/login/loginServices.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/app/login/loginCtrl.js",
+		"/Users/pduran/Sites/pos/BlackstonePos.UI/readme.md",
+		"/Volumes/wwwroot/news.blackstoneonline.com/web.config",
+		"/Volumes/wwwroot/kaching123/web.config",
+		"/Users/pduran/Downloads/PassportMsk.tps",
+		"/Volumes/wwwroot/news.blackstoneonline.com/wp-content/plugins/youtube-video-player/fornt_end/front_end.php",
+		"/Volumes/wwwroot/news.blackstoneonline.com/wp-content/plugins/youtube-video-player/admin/admin_menu.php",
+		"/Volumes/Blackstone/-2015 blackstone/Resources/Wordpress/Kallyas v.2014.03.04/kallyas/style.css",
+		"/Users/pduran/Sites/wp_test/wp-content/themes/wp_api_theme/dev/config.json",
+		"/Users/pduran/Sites/wp_test/wp-content/themes/wp_api_theme/dev/gulpfile.js",
+		"/Users/pduran/Sites/wp_test/wp-content/themes/wp_api_theme/config.json",
+		"/Users/pduran/Sites/wp_test/wp-content/themes/wp_angular_theme/README.md",
+		"/Users/pduran/Sites/wp_test/.htaccess",
+		"/Users/pduran/Sites/wp_test/wp-config.php",
+		"/Users/pduran/Sites/php_fulllyrics/app/submit.php",
+		"/Users/pduran/Sites/php_fulllyrics/app/show.php",
+		"/Users/pduran/Sites/php_fulllyrics/app/page.php",
+		"/Users/pduran/Sites/php_fulllyrics/app/index-categories.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/pduran/Sites/octopress-so_simple/_sass/vendor/syntax",
+			"",
+			"/Users/pduran/Sites/pos/BlackstonePos.UI",
+			"/Users/pduran/Sites/pos/BlackstonePos.UI/app",
+			"/Users/pduran/Sites/pos/BlackstonePos.UI",
+			"/Users/pduran/Sites/pos/BlackstonePos.UI/Content",
+			"/Users/pduran/Sites/pos/BlackstonePos.UI/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</span>",
+			"**function**",
+			"</span>",
+			"</span>('<span style=\"color: #38761d;\">",
+			"</span>",
+			"<span style=\"color: #38761d;\">require</span>",
+			"ip</span>",
+			"created</span>",
+			"user_id_fk</span>",
+			"user_update</span>",
+			"update_id</span>",
+			"PRIMARY KEY</span>",
+			"profile_pic</span>",
+			"name</span>",
+			"password</span>",
+			"username</span>",
+			"user_id</span>",
+			";</div>",
+			"<span style=\"color: #e06666;\">",
+			"<span style=\"color: #a64d79;\">",
+			"<span style=\"color: blue;\">",
+			"<span style=\"color: #cc0000;\">",
+			"<div class=\"code\">",
+			"<div class=\"big\">",
+			"Details",
+			"include",
+			".entry-tags",
+			"entry-title",
+			"url",
+			"site",
+			"deploy",
+			"deplo",
+			".sass-cache",
+			".bundle",
+			".DS_Store",
+			"dark",
+			"figcap",
+			"box",
+			"mixin",
+			"hover-link",
+			"hover-link\nhover-link\n@mixing hover-link",
+			"hover-link",
+			"box-shadow",
+			"gems",
+			"sub",
+			"plugins",
+			"modal",
+			"table",
+			"h5",
+			"div",
+			"border-width",
+			".product-modal",
+			".product-modal ",
+			"modal",
+			"modal-bo",
+			"modal",
+			"inner-nav",
+			"show-info",
+			"editor",
+			"subl",
+			"autocrlf",
+			".numpad",
+			"numpad",
+			"initInputs",
+			"phone",
+			"hr",
+			"div",
+			"css",
+			"getSettings",
+			"$scope.settings",
+			"contr",
+			"$scope.settings",
+			"getCa",
+			"hr",
+			"settings",
+			"tabs",
+			"updateAdminSesion",
+			"getOrders",
+			"orders",
+			"getCashiers",
+			"initOverSession",
+			"ExternalFactory",
+			"logout",
+			"close",
+			"isOpenAdmin",
+			"userInfo",
+			"item",
+			"var",
+			"getSalesSummary",
+			"snap",
+			"updateMerchant()",
+			"My Account",
+			"debug",
+			"!settings.PaxTerminalAsPrinter",
+			"<div class=\"form-group\" ng-show=\"!settings.PaxTerminalAsPrinter\">",
+			"<div class=\"form-group\" ng-show=\"!settings.PaxTerminalAsPrinter\">\n                    <button class=\"btn btn-success btn-block\" ng-click=\"printInfo()\">\n                        <span class=\"fa fa-print\"></span> Print\n                    </button>\n                </div>",
+			"print",
+			"index",
+			"sampleForm",
+			"submitGuest",
+			"demo",
+			"angular-wordpress-seed",
+			"../../",
+			"'",
+			"\"",
+			")",
+			", window",
+			", document",
+			"\"",
+			"image_id",
+			"img_attr",
+			"appScripts",
+			"tool",
+			"hori",
+			"fileinclude",
+			"server",
+			"ModalFormInstanceCtrl",
+			"modalInstance",
+			"ModalInstanceCtrl",
+			"ModalInstanceCtrl'",
+			"'',\n",
+			"ModalInstanceCtrl",
+			"libs",
+			"gridv",
+			"watch",
+			"route",
+			"inject",
+			"ngAnnotate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"function",
+			"('",
+			"(",
+			"require",
+			"ip",
+			"created",
+			"user_id_fk",
+			"user_update",
+			"update_id",
+			"PRIMARY KEY",
+			"profile_pic",
+			"name",
+			"username",
+			"user_id",
+			";",
+			"",
+			"../../../",
+			"shell",
+			"// might ngInject",
+			"'",
+			"===",
+			"'",
+			"MerchantPassword};",
+			"MerchantPassword}",
+			"{MerchantId",
+			"loadingMerchantTracker}",
+			"{tracker",
+			"'The request failed: '",
+			"/",
+			"showNav",
+			"zip_code",
+			"paths.scripts",
+			"appProd",
+			"paths.styles",
+			"styleProd",
+			"paths.libs",
+			"scriptsProd",
+			"# ",
+			"```",
+			"```shell",
+			"getInfoForm",
+			"checkSunpassForm",
+			"sunpassForm",
+			"/^[a-z ,.'-]+$/",
+			"accountNumber",
+			"Account",
+			"MerchantId",
+			"ng-show=\"userInfo.IsLogIn",
+			"IsMerchant",
+			"-bkt",
+			"",
+			"abb",
+			"showAcronymFilter",
+			"top-nav-var",
+			"alpha3",
+			"alpha2",
+			"\", \"\": \"",
+			"\", \"\", \"",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"| |",
+			"ng-model",
+			"ng-show",
+			"-",
+			"	",
+			"assets/images/",
+			"assets/styles/",
+			"col-md-9",
+			"glyphicon-chevron-right",
+			"select",
+			"/Images",
+			"'",
+			"<button class=\"btn btn-default ",
+			"<button class=\"btn btn-default",
+			"//@",
+			"background",
+			"64",
+			"48",
+			"@font-size-base",
+			"@btn-primary-bg",
+			"@gray-light",
+			"@gray-lighter",
+			"border-radius: 4px;",
+			"<li class=\"active\"><a href=\"home-out.html\">Products</a></li>",
+			"<label class=\"control-label\"",
+			"--------------------------------------------------------------------------------------------------"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1906,
+								1906
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/downloads/code/start-stop-webcam.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								943,
+								943
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1277,
+								1277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "octo-kiub.github.io.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read",
+				"Readme.md"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"main",
+				"assets/css/main.scss"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"_moda",
+				"Content/sass/base/_modals.scss"
+			],
+			[
+				"var",
+				"Content/sass/base/_variables.scss"
+			],
+			[
+				"show",
+				"app/products/showProductCtrl.js"
+			],
+			[
+				"varia",
+				"Content/sass/base/_variables.scss"
+			],
+			[
+				"butt",
+				"Content/sass/base/_buttons.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"inde",
+				"Views/src/index.html"
+			],
+			[
+				"custo",
+				"Content/sass/base/_custom.scss"
+			],
+			[
+				"cust",
+				"Content/sass/base/_custom.scss"
+			],
+			[
+				"app",
+				"app/app.js"
+			],
+			[
+				"ashare",
+				"app/shared/sharedServices.js"
+			],
+			[
+				"styles",
+				"Content/styles.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ani",
+				"BlackstonePos.UI/Content/sass/base/_animations.scss"
+			],
+			[
+				"shared",
+				"BlackstonePos.UI/app/shared/sharedDirectives.js"
+			],
+			[
+				"style",
+				"BlackstonePos.UI/Content/styles.scss"
+			],
+			[
+				"produc",
+				"BlackstonePos.UI/app/products/productsServices.js"
+			],
+			[
+				"home",
+				"BlackstonePos.UI/app/home/homeCtrl.js"
+			],
+			[
+				"direct",
+				"BlackstonePos.UI/app/directtv/directTvCtrl.js"
+			],
+			[
+				"other",
+				"BlackstonePos.UI/app/others/othersCtrl.js"
+			],
+			[
+				"othe",
+				"BlackstonePos.UI/app/others/othersCtrl.js"
+			],
+			[
+				"login",
+				"BlackstonePos.UI/app/login/loginServices.js"
+			],
+			[
+				"share",
+				"BlackstonePos.UI/app/shared/sharedCtrl.js"
+			],
+			[
+				"promos",
+				"BlackstonePos.UI/app/promotions/promosCtrl.js"
+			],
+			[
+				"icon",
+				"BlackstonePos.UI/Content/sass/base/_icons.scss"
+			],
+			[
+				"direc",
+				"BlackstonePos.UI/app/directtv/directTvCtrl.js"
+			],
+			[
+				"sha",
+				"BlackstonePos.UI/app/shared/sharedDirectives.js"
+			],
+			[
+				"packa",
+				"BlackstonePos.UI/package.json"
+			],
+			[
+				"_var",
+				"BlackstonePos.UI/Content/sass/base/_variables.scss"
+			],
+			[
+				"indexbycategorybillpaymentctrl",
+				"BlackstonePos.UI/app/billpayment/IndexByCategoryBillPaymentCtrl.js"
+			],
+			[
+				"bill",
+				"BlackstonePos.UI/obj/Release/Package/PackageTmp/app/billpayment/billPaymentCategoriesCtrl.js"
+			],
+			[
+				"cus",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"cuso",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"color",
+				"BlackstonePos.UI/Content/sass/base/_colors.scss"
+			],
+			[
+				"icons",
+				"BlackstonePos.UI/Content/sass/base/_icons.scss"
+			],
+			[
+				"form",
+				"BlackstonePos.UI/Content/sass/base/_forms.scss"
+			],
+			[
+				"type",
+				"BlackstonePos.UI/packages-ui/bootstrap-sass-official/assets/stylesheets/bootstrap/_type.scss"
+			],
+			[
+				"anima",
+				"BlackstonePos.UI/Content/sass/base/_animations.scss"
+			],
+			[
+				"",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"typo",
+				"BlackstonePos.UI/Content/sass/base/_typography.scss"
+			],
+			[
+				"va",
+				"BlackstonePos.UI/Content/sass/base/_variables.scss"
+			],
+			[
+				"directi",
+				"BlackstonePos.UI/app/shared/sharedDirectives.js"
+			],
+			[
+				"_custo",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_btn",
+				"BlackstonePos.UI/Content/sass/base/_buttons.scss"
+			],
+			[
+				"_form",
+				"BlackstonePos.UI/Content/sass/base/_forms.scss"
+			],
+			[
+				"_colo",
+				"BlackstonePos.UI/Content/sass/base/_colors.scss"
+			],
+			[
+				"_cus",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_varia",
+				"BlackstonePos.UI/Content/sass/base/_variables.scss"
+			],
+			[
+				"seed",
+				"BlackstonePos.UI/node_modules/gulp-jshint/node_modules/jshint/node_modules/console-browserify/node_modules/date-now/seed.js"
+			],
+			[
+				"sunp",
+				"BlackstonePos.UI/app/sunpass/_replenish-sunpass.html"
+			],
+			[
+				"shar",
+				"BlackstonePos.UI/app/shared/sharedCtrl.js"
+			],
+			[
+				"_ge",
+				"BlackstonePos.UI/Content/sass/base/_general.scss"
+			],
+			[
+				"filte",
+				"BlackstonePos.UI/node_modules/bower/node_modules/mout/array/filter.js"
+			],
+			[
+				"_anim",
+				"BlackstonePos.UI/Content/sass/base/_animations.scss"
+			],
+			[
+				"_shoe",
+				"BlackstonePos.UI/app/billpayment/_show-biller.html"
+			],
+			[
+				"_an",
+				"BlackstonePos.UI/Content/sass/base/_animations.scss"
+			],
+			[
+				"i",
+				"BlackstonePos.UI/index.html"
+			],
+			[
+				"_col",
+				"BlackstonePos.UI/Content/sass/base/_colors.scss"
+			],
+			[
+				"_icon",
+				"BlackstonePos.UI/Content/sass/base/_icons.scss"
+			],
+			[
+				"_anima",
+				"BlackstonePos.UI/Content/sass/base/_animations.scss"
+			],
+			[
+				"_butt",
+				"BlackstonePos.UI/Content/sass/base/_buttons.scss"
+			],
+			[
+				"_show-p",
+				"BlackstonePos.UI/app/products/_show-product.html"
+			],
+			[
+				"_login",
+				"BlackstonePos.UI/app/login/_login.html"
+			],
+			[
+				"_home",
+				"BlackstonePos.UI/app/home/_home.html"
+			],
+			[
+				"_sho",
+				"BlackstonePos.UI/app/products/_show-product.html"
+			],
+			[
+				"sho",
+				"BlackstonePos.UI/app/products/showProductCtrl.js"
+			],
+			[
+				"_color",
+				"BlackstonePos.UI/Content/sass/base/_colors.scss"
+			],
+			[
+				"_custom",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_bu",
+				"BlackstonePos.UI/Content/sass/base/_buttons.scss"
+			],
+			[
+				"_va",
+				"BlackstonePos.UI/Content/sass/base/_variables.scss"
+			],
+			[
+				"custom",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_icons",
+				"BlackstonePos.UI/Content/sass/base/_icons.scss"
+			],
+			[
+				"_colors",
+				"BlackstonePos.UI/Content/sass/base/_colors.scss"
+			],
+			[
+				"_cu",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_show",
+				"BlackstonePos.UI/app/products/_show-product.html"
+			],
+			[
+				"key",
+				"BlackstonePos.UI/Content/sass/_keypad-numeric.scss"
+			],
+			[
+				"_index",
+				"BlackstonePos.UI/app/products/_index-products.html"
+			],
+			[
+				"sty",
+				"BlackstonePos.UI/Content/styles.scss"
+			],
+			[
+				"load",
+				"BlackstonePos.UI/Content/sass/_loading-spin.scss"
+			],
+			[
+				"service",
+				"BlackstonePos.UI/app/products/productsServices.js"
+			],
+			[
+				"prod",
+				"BlackstonePos.UI/app/products/productsServices.js"
+			],
+			[
+				"_logi",
+				"BlackstonePos.UI/app/login/_login.html"
+			],
+			[
+				"_nav",
+				"BlackstonePos.UI/Content/sass/base/_navbar.scss"
+			],
+			[
+				"_cust",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_modal",
+				"BlackstonePos.UI/Content/sass/base/_modals.scss"
+			],
+			[
+				"_typo",
+				"BlackstonePos.UI/Content/sass/base/_typography.scss"
+			],
+			[
+				"_variable",
+				"BlackstonePos.UI/Content/sass/base/_variables.scss"
+			],
+			[
+				"servi",
+				"BlackstonePos.UI/app/products/productsServices.js"
+			],
+			[
+				"_mo",
+				"BlackstonePos.UI/Content/sass/base/_modals.scss"
+			],
+			[
+				"nav",
+				"BlackstonePos.UI/Content/sass/base/_navbar.scss"
+			],
+			[
+				"_hea",
+				"BlackstonePos.UI/Content/sass/base/_header.scss"
+			],
+			[
+				"app.",
+				"BlackstonePos.UI/app/app.js"
+			],
+			[
+				"_ke",
+				"BlackstonePos.UI/Content/sass/_keypad-numeric.scss"
+			],
+			[
+				"inex",
+				"BlackstonePos.UI/index.html"
+			],
+			[
+				"_heade",
+				"BlackstonePos.UI/Content/sass/base/_header.scss"
+			],
+			[
+				"_na",
+				"BlackstonePos.UI/Content/sass/base/_navbar.scss"
+			],
+			[
+				"showp",
+				"BlackstonePos.UI/app/products/showProductCtrl.js"
+			],
+			[
+				"_cuso",
+				"BlackstonePos.UI/Content/sass/base/_custom.scss"
+			],
+			[
+				"_navbar",
+				"BlackstonePos.UI/Content/sass/base/_navbar.scss"
+			],
+			[
+				"fla",
+				"BlackstonePos.UI/Content/flags/flags32.scss"
+			],
+			[
+				"_head",
+				"BlackstonePos.UI/Content/sass/base/_header.scss"
+			],
+			[
+				"sared",
+				"BlackstonePos.UI/app/shared/sharedCtrl.js"
+			],
+			[
+				"_panel",
+				"BlackstonePos.UI/Content/sass/base/_panels.scss"
+			],
+			[
+				"flag",
+				"BlackstonePos.UI/Content/flags/flags32.scss"
+			],
+			[
+				"_for",
+				"Content/sass/base/_forms.scss"
+			],
+			[
+				"logi",
+				"app/login/loginServices.js"
+			],
+			[
+				"_key",
+				"app/products/_keypad.html"
+			],
+			[
+				"_but",
+				"Content/sass/base/_buttons.scss"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"_b",
+				"Content/sass/base/_buttons.scss"
+			],
+			[
+				"log",
+				"app/views/login.html"
+			],
+			[
+				"filter",
+				"app/filters/filters.js"
+			],
+			[
+				"_pane",
+				"Content/sass/base/_panels.scss"
+			],
+			[
+				"_pa",
+				"Content/sass/base/_panels.scss"
+			],
+			[
+				"_navba",
+				"Content/sass/base/_navbar.scss"
+			],
+			[
+				"controll",
+				"app/controllers/controllers.js"
+			],
+			[
+				"colo",
+				"Content/sass/base/_colors.scss"
+			],
+			[
+				"pane",
+				"Content/sass/base/_panels.scss"
+			],
+			[
+				"products",
+				"app/views/products.html"
+			],
+			[
+				"control",
+				"app/controllers/controllers.js"
+			],
+			[
+				"contr",
+				"app/controllers/controllers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/pos/BlackstonePos.UI/pos.sublime-project"
+			],
+			[
+				"pos",
+				"~/Sites/pos/BlackstonePos.UI/pos.sublime-project"
+			],
+			[
+				"cuba",
+				"~/Sites/cubamax-views/cubamax.sublime-project"
+			],
+			[
+				"kt",
+				"~/Sites/ktraining/ktraining.sublime-project"
+			],
+			[
+				"me",
+				"~/Sites/meteleusa/meteleusa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 844.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
